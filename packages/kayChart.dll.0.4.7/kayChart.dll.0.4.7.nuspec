@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>kayChart.dll</id>
+    <version>0.4.7</version>
+    <title>kayChart</title>
+    <authors>Szymon Chmielewski</authors>
+    <owners>Szymon Chmielewski</owners>
+    <licenseUrl>https://www.gnu.org/licenses/gpl-3.0.en.html</licenseUrl>
+    <projectUrl>http://www.urgentfury.co.uk/</projectUrl>
+    <iconUrl>https://github.com/drExplicit/realTimeChart/blob/master/graph.png?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>kayChart is a small library which let you use chart controls in Visual Studio as real time charts without using 3rd party chart controls.</description>
+    <summary />
+    <releaseNotes>Added method to trigger chart updates using events.For ex. on data received from serial port or on value changed,etc... You can use multiple instances of kayChart to update series on the same chart...Added link to mini documentation</releaseNotes>
+    <copyright>Copyright 2016 Szymon Chmielewski</copyright>
+    <tags>real time chart charts c# csharp visual studio serial port arduino windows forms</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0.0" />
+    </dependencies>
+  </metadata>
+</package>

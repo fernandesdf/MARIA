@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Retyped.react-easy-chart</name>
+    </assembly>
+    <members>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.axes">
+            <summary>
+            Whether to show axis labels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.axisLabels">
+            <summary>
+            Labels for each of the axis
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.barWidth">
+            <summary>
+            The width of an individual bar in pixels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.colorBars">
+            <summary>
+            Whether to automatically color the bars
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.datePattern">
+            <summary>
+            A d3 time formatting pattern to be applied to format the x axis values
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.grid">
+            <summary>
+            Whether to show horizontal grid lines on the chart
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.height">
+            <summary>
+            Height of the chart in pixels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.interpolate">
+            <summary>
+            Interpolation method if you add a line to this chart (via lineData)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.margin">
+            <summary>
+            css margins
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.tickTimeDisplayFormat">
+            <summary>
+            The d3 time format to be used for the x axis (when xType is 'time')
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.width">
+            <summary>
+            Width of the chart in pixels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.xDomainRange">
+            <summary>
+            The range that the x axis should show (otherwise automatically calculated)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.xTickNumber">
+            <summary>
+            The amount of ticks to be shown on the x axis
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.xType">
+            <summary>
+            What data type the x axis is
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.y2Type">
+            <summary>
+            What data type the second y axis is
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.yAxisOrientRight">
+            <summary>
+            Whether to show the axis on the right (default false: left)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.yDomainRange">
+            <summary>
+            The range that the y axis should show (otherwise automatically calculated)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.BarChartProps.yTickNumber">
+            <summary>
+            The amount of ticks to be shown on the y axis
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.PieChartProps.innerHoleSize">
+            <summary>
+            Size in pixels of the inner hole (diameter)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.PieChartProps.labels">
+            <summary>
+            Whether to add labels the to pie segments
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.PieChartProps.padding">
+            <summary>
+            Padding around the chart in pixels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.PieChartProps.size">
+            <summary>
+            Size in pixels in each dimension
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.axes">
+            <summary>
+            Whether to show axis labels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.axisLabels">
+            <summary>
+            Labels for each of the axis
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.dataPoints">
+            <summary>
+            Whether to show circles on the data points
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.grid">
+            <summary>
+            Whether to show horizontal grid lines on the chart
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.height">
+            <summary>
+            Height of the chart in pixels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.interpolate">
+            <summary>
+            Smoothing option for the lines
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.margin">
+            <summary>
+            css margins
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.tickTimeDisplayFormat">
+            <summary>
+            The d3 time format to be used for the x axis (when xType is 'time')
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.verticalGrid">
+            <summary>
+            Whether to show vertical grid lines on the chart
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.width">
+            <summary>
+            Width of the chart in pixels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.xDomainRange">
+            <summary>
+            The range that the x axis should show (otherwise automatically calculated)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.xTicks">
+            <summary>
+            The amount of ticks to be shown on the x axis
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.xType">
+            <summary>
+            What data type the x axis is
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.yAxisOrientRight">
+            <summary>
+            Whether to show the axis on the right (default false: left)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.yDomainRange">
+            <summary>
+            The range that the y axis should show (otherwise automatically calculated)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.yTicks">
+            <summary>
+            The amount of ticks to be shown on the y axis
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LineChartProps.yType">
+            <summary>
+            What data type the x axis is
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.AreaChartProps.noAreaGradient">
+            <summary>
+            Make the gradient area a solid fill rather than a gradient
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.axes">
+            <summary>
+            Whether to show axis labels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.axisLabels">
+            <summary>
+            Labels for each of the axis
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.config">
+            <summary>
+            Allows styling of individual types of points
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.dotRadius">
+            <summary>
+            Radius of the dots on the chart
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.grid">
+            <summary>
+            Whether to show horizontal grid lines on the chart
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.height">
+            <summary>
+            Height of the chart in pixels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.margin">
+            <summary>
+            css margins
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.verticalGrid">
+            <summary>
+            Whether to show vertical grid lines on the chart
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.width">
+            <summary>
+            Width of the chart in pixels
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.xDomainRange">
+            <summary>
+            The range that the x axis should show (otherwise automatically calculated)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.xType">
+            <summary>
+            What data type the x axis is
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.yAxisOrientRight">
+            <summary>
+            Whether to show the axis on the right (default false: left)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.yDomainRange">
+            <summary>
+            The range that the y axis should show (otherwise automatically calculated)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.ScatterplotChartProps.yType">
+            <summary>
+            What data type the x axis is
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LegendProps.config">
+            <summary>
+            Override the color of the items
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LegendProps.horizontal">
+            <summary>
+            change list items to inline-block (default block)
+            </summary>
+        </member>
+        <member name="P:Retyped.react_easy_chart.react_easy_chart2.LegendProps.styles">
+            <summary>
+            Override the css styles of individual components, see http://rma-consulting.github.io/react-easy-chart/legend/index.html
+            </summary>
+        </member>
+    </members>
+</doc>

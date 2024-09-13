@@ -1,0 +1,2388 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Retyped.csstype</name>
+    </assembly>
+    <members>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.boxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.boxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.boxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.boxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.clip">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.fontVariantAlternates">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.imeMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.scrollSnapCoordinate">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.scrollSnapDestination">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.scrollSnapPointsX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.scrollSnapPointsY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.scrollSnapTypeX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.scrollSnapTypeY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.textCombineHorizontal">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.KhtmlBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.KhtmlBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.KhtmlBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.KhtmlBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozBackgroundInlinePolicy">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozBackgroundSize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozBorderRadius">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozBorderRadiusTopright">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozBoxShadow">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozOpacity">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozOutline">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozOutlineColor">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozOutlineStyle">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozOutlineWidth">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozResize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozTextAlignLast">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozTextDecorationColor">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozTextDecorationLine">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.MozTextDecorationStyle">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.msImeMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OAnimation">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OAnimationDelay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OAnimationDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OAnimationDuration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OAnimationFillMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OAnimationIterationCount">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OAnimationName">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OAnimationPlayState">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OAnimationTimingFunction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OTransform">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OTransition">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OTransitionDelay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OTransitionDuration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OTransitionProperty">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.OTransitionTimingFunction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.WebkitBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.WebkitBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.WebkitBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.WebkitBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.WebkitBoxSizing">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.WebkitScrollSnapPointsX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoleteProperties`1.WebkitScrollSnapPointsY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.boxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.boxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.boxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.boxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.clip">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.fontVariantAlternates">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.imeMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.scrollSnapCoordinate">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.scrollSnapDestination">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.scrollSnapPointsX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.scrollSnapPointsY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.scrollSnapTypeX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.scrollSnapTypeY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.textCombineHorizontal">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.KhtmlBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.KhtmlBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.KhtmlBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.KhtmlBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozBackgroundInlinePolicy">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozBackgroundSize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozBorderRadius">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozBorderRadiusTopright">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozBoxShadow">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozOpacity">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozOutline">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozOutlineColor">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozOutlineStyle">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozOutlineWidth">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozResize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozTextAlignLast">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozTextDecorationColor">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozTextDecorationLine">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.MozTextDecorationStyle">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.msImeMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OAnimation">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OAnimationDelay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OAnimationDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OAnimationDuration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OAnimationFillMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OAnimationIterationCount">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OAnimationName">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OAnimationPlayState">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OAnimationTimingFunction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OTransform">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OTransition">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OTransitionDelay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OTransitionDuration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OTransitionProperty">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.OTransitionTimingFunction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.WebkitBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.WebkitBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.WebkitBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.WebkitBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.WebkitScrollSnapPointsX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.Properties`1.WebkitScrollSnapPointsY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.clip">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.font_variant_alternates">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.ime_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.scroll_snap_coordinate">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.scroll_snap_destination">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.scroll_snap_points_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.scroll_snap_points_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.scroll_snap_type_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.scroll_snap_type_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1.text_combine_horizontal">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._khtml_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._khtml_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._khtml_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._khtml_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_background_inline_policy">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_background_size">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_border_radius">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_border_radius_topright">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_box_shadow">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_opacity">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_outline">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_outline_color">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_outline_style">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_outline_width">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_resize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_text_align_last">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_text_decoration_color">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_text_decoration_line">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._moz_text_decoration_style">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._ms_ime_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_animation">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_animation_delay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_animation_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_animation_duration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_animation_fill_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_animation_iteration_count">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_animation_name">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_animation_play_state">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_animation_timing_function">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_transform">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_transition">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_transition_delay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_transition_duration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_transition_property">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._o_transition_timing_function">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._webkit_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._webkit_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._webkit_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._webkit_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._webkit_box_sizing">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._webkit_scroll_snap_points_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphen`1._webkit_scroll_snap_points_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.clip">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.font_variant_alternates">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.ime_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.scroll_snap_coordinate">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.scroll_snap_destination">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.scroll_snap_points_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.scroll_snap_points_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.scroll_snap_type_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.scroll_snap_type_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1.text_combine_horizontal">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._khtml_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._khtml_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._khtml_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._khtml_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_background_inline_policy">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_background_size">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_border_radius">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_border_radius_topright">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_box_shadow">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_opacity">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_outline">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_outline_color">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_outline_style">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_outline_width">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_resize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_text_align_last">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_text_decoration_color">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_text_decoration_line">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._moz_text_decoration_style">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._ms_ime_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_animation">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_animation_delay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_animation_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_animation_duration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_animation_fill_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_animation_iteration_count">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_animation_name">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_animation_play_state">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_animation_timing_function">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_transform">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_transition">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_transition_delay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_transition_duration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_transition_property">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._o_transition_timing_function">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._webkit_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._webkit_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._webkit_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._webkit_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._webkit_scroll_snap_points_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphen`1._webkit_scroll_snap_points_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.boxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.boxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.boxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.boxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.clip">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.fontVariantAlternates">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.imeMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.scrollSnapCoordinate">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.scrollSnapDestination">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.scrollSnapPointsX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.scrollSnapPointsY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.scrollSnapTypeX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.scrollSnapTypeY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.textCombineHorizontal">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.KhtmlBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.KhtmlBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.KhtmlBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.KhtmlBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozBackgroundInlinePolicy">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozBackgroundSize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozBorderRadius">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozBorderRadiusTopright">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozBoxShadow">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozOpacity">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozOutline">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozOutlineColor">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozOutlineStyle">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozOutlineWidth">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozResize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozTextAlignLast">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozTextDecorationColor">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozTextDecorationLine">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.MozTextDecorationStyle">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.msImeMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OAnimation">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OAnimationDelay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OAnimationDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OAnimationDuration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OAnimationFillMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OAnimationIterationCount">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OAnimationName">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OAnimationPlayState">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OAnimationTimingFunction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OTransform">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OTransition">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OTransitionDelay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OTransitionDuration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OTransitionProperty">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.OTransitionTimingFunction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.WebkitBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.WebkitBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.WebkitBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.WebkitBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.WebkitBoxSizing">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.WebkitScrollSnapPointsX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesFallback`1.WebkitScrollSnapPointsY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.boxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.boxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.boxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.boxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.clip">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.fontVariantAlternates">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.imeMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.scrollSnapCoordinate">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.scrollSnapDestination">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.scrollSnapPointsX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.scrollSnapPointsY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.scrollSnapTypeX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.scrollSnapTypeY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.textCombineHorizontal">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.KhtmlBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.KhtmlBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.KhtmlBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.KhtmlBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozBackgroundInlinePolicy">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozBackgroundSize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozBorderRadius">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozBorderRadiusTopright">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozBoxShadow">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozOpacity">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozOutline">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozOutlineColor">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozOutlineStyle">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozOutlineWidth">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozResize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozTextAlignLast">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozTextDecorationColor">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozTextDecorationLine">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.MozTextDecorationStyle">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.msImeMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OAnimation">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OAnimationDelay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OAnimationDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OAnimationDuration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OAnimationFillMode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OAnimationIterationCount">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OAnimationName">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OAnimationPlayState">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OAnimationTimingFunction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OTransform">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OTransition">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OTransitionDelay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OTransitionDuration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OTransitionProperty">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.OTransitionTimingFunction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.WebkitBoxDirection">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.WebkitBoxFlex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.WebkitBoxOrient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.WebkitBoxPack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.WebkitScrollSnapPointsX">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesFallback`1.WebkitScrollSnapPointsY">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.clip">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.font_variant_alternates">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.ime_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.scroll_snap_coordinate">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.scroll_snap_destination">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.scroll_snap_points_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.scroll_snap_points_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.scroll_snap_type_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.scroll_snap_type_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1.text_combine_horizontal">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._khtml_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._khtml_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._khtml_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._khtml_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_background_inline_policy">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_background_size">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_border_radius">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_border_radius_topright">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_box_shadow">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_opacity">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_outline">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_outline_color">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_outline_style">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_outline_width">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_resize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_text_align_last">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_text_decoration_color">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_text_decoration_line">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._moz_text_decoration_style">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._ms_ime_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_animation">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_animation_delay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_animation_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_animation_duration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_animation_fill_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_animation_iteration_count">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_animation_name">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_animation_play_state">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_animation_timing_function">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_transform">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_transition">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_transition_delay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_transition_duration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_transition_property">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._o_transition_timing_function">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._webkit_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._webkit_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._webkit_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._webkit_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._webkit_box_sizing">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._webkit_scroll_snap_points_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.ObsoletePropertiesHyphenFallback`1._webkit_scroll_snap_points_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.clip">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.font_variant_alternates">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.ime_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.scroll_snap_coordinate">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.scroll_snap_destination">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.scroll_snap_points_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.scroll_snap_points_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.scroll_snap_type_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.scroll_snap_type_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1.text_combine_horizontal">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._khtml_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._khtml_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._khtml_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._khtml_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_background_inline_policy">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_background_size">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_border_radius">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_border_radius_topright">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_box_shadow">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_opacity">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_outline">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_outline_color">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_outline_style">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_outline_width">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_resize">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_text_align_last">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_text_decoration_color">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_text_decoration_line">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._moz_text_decoration_style">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._ms_ime_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_animation">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_animation_delay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_animation_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_animation_duration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_animation_fill_mode">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_animation_iteration_count">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_animation_name">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_animation_play_state">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_animation_timing_function">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_transform">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_transition">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_transition_delay">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_transition_duration">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_transition_property">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._o_transition_timing_function">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._webkit_box_direction">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._webkit_box_flex">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._webkit_box_orient">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._webkit_box_pack">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._webkit_scroll_snap_points_x">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+        <member name="P:Retyped.csstype.PropertiesHyphenFallback`1._webkit_scroll_snap_points_y">
+            <summary>
+            @deprecated
+            </summary>
+        </member>
+    </members>
+</doc>

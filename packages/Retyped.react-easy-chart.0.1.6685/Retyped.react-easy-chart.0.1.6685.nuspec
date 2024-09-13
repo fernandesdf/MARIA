@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.5">
+    <id>Retyped.react-easy-chart</id>
+    <version>0.1.6685</version>
+    <title>Retyped.react-easy-chart</title>
+    <authors>Object.NET, Inc.</authors>
+    <owners>Object.NET, Inc.</owners>
+    <licenseUrl>https://github.com/bridgedotnet/Bridge/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://retyped.com/</projectUrl>
+    <iconUrl>https://speed.retyped.com/identity/retyped-100x100.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>React Easy Chart (react-easy-chart) binding library for Bridge.NET projects.</description>
+    <summary />
+    <copyright>Copyright (c) 2008-2018, Object.NET, Inc. (http://object.net/). All rights reserved.</copyright>
+    <tags>react easy chart react-easy-chart typescript ts tsc js javascript c# csharp dotnet mobile ios web transpiler compiler retyped bridge bridge.net object.net</tags>
+    <dependencies>
+      <dependency id="Retyped.react" version="16.3.6685" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,253 @@
+c:\users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+c:\users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+c:\users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+c:\users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+c:\users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+c:\users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+c:\users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+c:\users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+c:\users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\115131\documents\visual studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Paciente.resources
+C:\Users\115131\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Paciente.resources
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Paciente.resources
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Fernandes\Documents\Visual Studio 2013\Projects\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\Fernandes\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+C:\Users\115131\Documents\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.AdminInformaçoes.resources
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\MaterialSkin.dll
+E:\PT\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+E:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+E:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+F:\PT\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\bin\Debug\MaterialSkin.dll
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.AdminInformaçoes.resources
+G:\PT\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+G:\PT\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+G:\PT\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+G:\PT\Maria(teste1)\Maria(teste1)\bin\Debug\MaterialSkin.dll
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.AdminInformaçoes.resources
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+G:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.AdminInformaçoes.resources
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+F:\PT\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+F:\PT\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+F:\PT\Maria(teste1)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+F:\PT\Maria(teste1)\Maria(teste1)\bin\Debug\MaterialSkin.dll
+C:\Users\fernandesdf\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+C:\Users\115356\Desktop\Maria(teste1)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+G:\PT\Maria(teste_alarmes)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+G:\PT\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+G:\PT\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\bin\Debug\MaterialSkin.dll
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+C:\Users\fernandesdf\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\bin\Debug\MaterialSkin.dll
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+C:\Users\115356\Desktop\Maria(teste_alarmes)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\bin\Debug\MaterialSkin.dll
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+C:\Users\115356\Desktop\Maria\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\115356\Desktop\Maria\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\115356\Desktop\Maria\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\115356\Desktop\Maria\Maria(teste1)\bin\Debug\MaterialSkin.dll
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+G:\PT\Maria\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria(teste1).exe
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+G:\PT\Maria\Maria(teste1)\bin\Debug\Maria(teste1).exe
+G:\PT\Maria\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+G:\PT\Maria\Maria(teste1)\bin\Debug\MaterialSkin.dll
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+G:\Maria\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+G:\Maria\Maria(teste1)\obj\Debug\Maria(teste1).exe
+G:\Maria\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+E:\PT\Maria\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+E:\PT\Maria\Maria(teste1)\obj\Debug\Maria(teste1).exe
+E:\PT\Maria\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\115356\Desktop\Maria\Maria(teste1)\bin\Debug\kayChart.dll
+G:\PT\Maria\Maria(teste1)\bin\Debug\kayChart.dll
+G:\PT\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Jogo_EntesQueridos.resources
+C:\Users\115356\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Jogo_GaleriaFam.resources
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\bin\Debug\kayChart.dll
+C:\Users\fernandesdf\Desktop\Maria\Maria(teste1)\obj\Debug\Maria_teste1_.Jogo_GaleriaFam.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\bin\Debug\Maria(teste1).exe
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\bin\Debug\Maria(teste1).pdb
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\bin\Debug\kayChart.dll
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\bin\Debug\MaterialSkin.dll
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria(teste1).csprojResolveAssemblyReference.cache
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria_teste1_.Form1.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria_teste1_.Form2.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria_teste1_.Jogo_GaleriaFam.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria_teste1_.Loading.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria_teste1_.Login.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria_teste1_.Properties.Resources.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_Administrador.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_doPaciente.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria_teste1_.Registo_dosMedicos.resources
+C:\Users\fernandesdf\Desktop\Maria(Jogo_GaleriaFam)\Maria(teste1)\obj\Debug\Maria(teste1).csproj.GenerateResource.Cache
+E:\PT\Projetos\Maria(08-05-18)\Maria(teste1)\bin\Debug\Maria(teste1).exe.config
+E:\PT\Projetos\Maria(08-05-18)\Maria(teste1)\obj\Debug\Maria(teste1).exe
+E:\PT\Projetos\Maria(08-05-18)\Maria(teste1)\obj\Debug\Maria(teste1).pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.5">
+    <id>Retyped.react</id>
+    <version>16.3.6685</version>
+    <title>Retyped.react</title>
+    <authors>Object.NET, Inc.</authors>
+    <owners>Object.NET, Inc.</owners>
+    <licenseUrl>https://github.com/bridgedotnet/Bridge/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://retyped.com/</projectUrl>
+    <iconUrl>https://speed.retyped.com/identity/retyped-100x100.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>React binding library for Bridge.NET projects.</description>
+    <summary />
+    <copyright>Copyright (c) 2008-2018, Object.NET, Inc. (http://object.net/). All rights reserved.</copyright>
+    <tags>react typescript ts tsc js javascript c# csharp dotnet mobile ios web transpiler compiler retyped bridge bridge.net object.net</tags>
+    <dependencies>
+      <dependency id="Retyped.dom" version="2.8.6685" />
+      <dependency id="Retyped.csstype" version="2.3.6685" />
+    </dependencies>
+  </metadata>
+</package>
